@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScheduleAppointment", "ScheduleAppointment.csproj", "{889A7403-1A5B-4172-B979-C3E096FA7F5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppointmentTest", "..\AppointmentTest\AppointmentTest.csproj", "{E605E619-C4D1-4DE2-B4F0-BA2F1096A402}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\UnitTest\UnitTest.csproj", "{245B397D-B357-4D6F-BE66-84F36AEA80B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{889A7403-1A5B-4172-B979-C3E096FA7F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{889A7403-1A5B-4172-B979-C3E096FA7F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{889A7403-1A5B-4172-B979-C3E096FA7F5C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E605E619-C4D1-4DE2-B4F0-BA2F1096A402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E605E619-C4D1-4DE2-B4F0-BA2F1096A402}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E605E619-C4D1-4DE2-B4F0-BA2F1096A402}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E605E619-C4D1-4DE2-B4F0-BA2F1096A402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{245B397D-B357-4D6F-BE66-84F36AEA80B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{245B397D-B357-4D6F-BE66-84F36AEA80B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{245B397D-B357-4D6F-BE66-84F36AEA80B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{245B397D-B357-4D6F-BE66-84F36AEA80B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
